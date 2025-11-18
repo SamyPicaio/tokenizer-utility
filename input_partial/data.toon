@@ -1,0 +1,13 @@
+name: Charlie
+role: DevOps
+skills: [Docker, AWS, Terraform]
+active: true
+experience: 7
+
+--------
+
+name: Diana
+role: Manager
+skills: [Leadership, Strategy]
+active: true
+experience: 12

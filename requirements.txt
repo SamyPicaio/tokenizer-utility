@@ -1,0 +1,8 @@
+# Core dependencies
+google-genai>=0.2.0
+tiktoken>=0.5.0
+anthropic>=0.18.0
+
+# For future enhancements
+# pandas>=2.0.0  # For advanced data analysis
+# matplotlib>=3.7.0  # For visualization
